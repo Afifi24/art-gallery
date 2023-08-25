@@ -32,7 +32,7 @@ const Hero = () => {
              <div className='flex flex-col  flex-1 gap-2 '>
                  <img className='md:hidden' src={imggridmobile2} alt="" />
                  <img className='md:flex hidden xl:hidden' src={imggridtablet2} alt="" />
-                 <img className='hidden xl:flex' src={imggridmobile2} alt="" />
+                 <img className='hidden xl:flex' src={imggriddesktop2} alt="" />
                  <div className='flex gap-4 flex-col  text-white bg-black p-6 xl:p-11'>
                  <h1 className='text-m md:text-m  leading-m font-[800] font-headings '>COME & BE <br className='hidden xl:flex' />  INSPIRED</h1>
                  <p className=' leading-body-s text-body-s font-[300] xl:max-w-sm xl:text-body-m'>We're excited to welcome you to ou gallery and see how our collections influence you.</p>

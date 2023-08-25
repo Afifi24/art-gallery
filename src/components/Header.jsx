@@ -5,7 +5,7 @@ import desktopimg from '../assets/desktop/image-hero@2x.jpg'
 import arrowleft from '../assets/icon-arrow-left.svg'
 const Header = () => {
   return (
-    <div className='min-h-screen '>
+    <div className=' '>
        <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-7'>
              <div className='bg-black hidden xl:flex xl:col-span-2 relative'>
                  <h1 className='text-xl leading-xl absolute top-[38%] -right-[45%] -translate-y-1/2  font-[800] font-headings  bg-text-gradient text-transparent bg-clip-text'> <span className=''>MODERN</span> <br /> <span className=''>ART GALLERY</span> </h1>
